@@ -22,7 +22,7 @@ Both current and past students will be able to access the most recent materials 
 | 2   | 4    | 17  | Central Limit Theorem               |[Repo](https://github.com/learn-co-students/distributions-sampling-london-ds)|		|
 | 2   | 4    | 18  | Hypothesis Testing                  |[Repo](https://github.com/learn-co-students/hypothesis-testing-london-ds)|		|
 | 2   | 4    | 19  | A/B Testing                         |[Repo](https://github.com/learn-co-students/ab-testing-london-ds)|		|
-| 2   | 4    | 20  | Bayes for Days                      |[Repo](https://github.com/davidjohnbaker1/bayes-london-ds)|		|
+| 2   | 4    | 20  | Bayes for Days                      |[Repo](https://github.com/learn-co-students/bayes-london-ds)|		|
 | 2   | 5    | 21  | Linear Regression                   |[Repo](https://github.com/learn-co-students/linear-regression-london-ds )|		|
 | 2   | 5    | 22  | Multiple Regression                 |[Repo](https://github.com/learn-co-students/multiple-linear-regression-london-ds)|		|
 | 2   | 5    | 23  | Feature Engineering                 |[Repo]( )|MT	|
@@ -40,12 +40,12 @@ Both current and past students will be able to access the most recent materials 
 | 3   | 8    | 39  | Model Tuning + Mod 3 Code Challenge |[Repo]( )|MT	|
 | 3   | 8    | 40  | Ensemble Methods                    |[Repo]( )|MT	|
 | 3   | 9    | 41  | Mod 3 Project Launch                |[Repo]( )|MT	|
-| 4   | 10   | 46  | PCA                                 |[Repo]( )|MT	|
+| 4   | 10   | 46  | PCA                                 |[Repo](https://github.com/learn-co-students/pca-london-ds)|DONE|
 | 4   | 10   | 47  | Clustering                          |[Repo]( )|MT	|
-| 4   | 10   | 48  | Recommendation Systems              |[Repo]( )|MT	|
-| 4   | 10   | 49  | BIG DATA + Mod 4 Code Challenge     |[Repo]( )|MT	|
+| 4   | 10   | 48  | Recommendation Systems              |[Repo](https://github.com/learn-co-students/recsys-london-ds)|DONE	|
+| 4   | 10   | 49  | Big Data 			         |[Repo](https://github.com/learn-co-students/big-data-london-ds)|DONE	|
 | 4   | 10   | 50  | Time Series Trends                  |[Repo]( )|MT	|
-| 4   | 11   | 51  | NLP                                 |[Repo]( )|MT	|
+| 4   | 11   | 51  | NLP                                 |[Repo](https://github.com/learn-co-students/intro-to-nlp-london-ds)|DONE	|
 | 4   | 11   | 52  | Neural Networks                     |[Repo]( )|MT	|
 | 4   | 11   | 53  | Multi-Layer Perceptrons             |[Repo]( )|MT	|
 | 4   | 11   | 54  | Tuning Neural Networks              |[Repo]( )|MT	|
