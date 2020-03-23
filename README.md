@@ -18,13 +18,13 @@ Both current and past students will be able to access the most recent materials 
 | 1   | 2    | 9   | JSON & API + Mod 1 Code Challenge   |[Repo]( )|MT	|
 | 1   | 2    | 10  | Web Scraping                        |[Repo]( )|MT	|
 | 1   | 3    | 11  | Mod 1 Project Launch                |[Repo]( )|MT	|
-| 2   | 4    | 16  | Intro to Inferential Statistics     |[Repo](https://github.com/learn-co-students/probability-london-ds)	|		|
-| 2   | 4    | 17  | Central Limit Theorem               |[Repo](https://github.com/learn-co-students/distributions-sampling-london-ds)|		|
-| 2   | 4    | 18  | Hypothesis Testing                  |[Repo](https://github.com/learn-co-students/hypothesis-testing-london-ds)|		|
-| 2   | 4    | 19  | A/B Testing                         |[Repo](https://github.com/learn-co-students/ab-testing-london-ds)|		|
-| 2   | 4    | 20  | Bayes for Days                      |[Repo](https://github.com/learn-co-students/bayes-london-ds)|		|
-| 2   | 5    | 21  | Linear Regression                   |[Repo](https://github.com/learn-co-students/linear-regression-london-ds )|		|
-| 2   | 5    | 22  | Multiple Regression                 |[Repo](https://github.com/learn-co-students/multiple-linear-regression-london-ds)|		|
+| 2   | 4    | 16  | Intro to Inferential Statistics     |[Repo](https://github.com/learn-co-students/probability-london-ds)	|DONE		|
+| 2   | 4    | 17  | Central Limit Theorem               |[Repo](https://github.com/learn-co-students/distributions-sampling-london-ds)|DONE		|
+| 2   | 4    | 18  | Hypothesis Testing                  |[Repo](https://github.com/learn-co-students/hypothesis-testing-london-ds)|DONE		|
+| 2   | 4    | 19  | A/B Testing                         |[Repo](https://github.com/learn-co-students/ab-testing-london-ds)|DONE		|
+| 2   | 4    | 20  | Bayes for Days                      |[Repo](https://github.com/learn-co-students/bayes-london-ds)|DONE		|
+| 2   | 5    | 21  | Linear Regression                   |[Repo](https://github.com/learn-co-students/linear-regression-london-ds )|DONE		|
+| 2   | 5    | 22  | Multiple Regression                 |[Repo](https://github.com/learn-co-students/multiple-linear-regression-london-ds)|DONE |
 | 2   | 5    | 23  | Feature Engineering                 |[Repo]( )|MT	|
 | 2   | 5    | 24  | Validation + Mod 2 Code Challenge   |[Repo]( )|MT	|
 | 2   | 5    | 25  | Bias-Variance Tradeoff              |[Repo]( )|MT	|
