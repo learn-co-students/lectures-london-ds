@@ -41,7 +41,7 @@ Both current and past students will be able to access the most recent materials 
 | 3   | 8    | 40  | Ensemble Methods                    |[Repo]( )|MT	|
 | 3   | 9    | 41  | Mod 3 Project Launch                |[Repo]( )|MT	|
 | 4   | 10   | 46  | PCA                                 |[Repo](https://github.com/learn-co-students/pca-london-ds)|DONE|
-| 4   | 10   | 47  | Clustering                          |[Repo]( )|MT	|
+| 4   | 10   | 47  | Clustering                          |[Repo](https://github.com/learn-co-students/clustering-london-ds)|MT	|
 | 4   | 10   | 48  | Recommendation Systems              |[Repo](https://github.com/learn-co-students/recsys-london-ds)|DONE	|
 | 4   | 10   | 49  | Big Data 			         |[Repo](https://github.com/learn-co-students/big-data-london-ds)|DONE	|
 | 4   | 10   | 50  | Time Series Trends                  |[Repo]( )|MT	|
