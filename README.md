@@ -25,6 +25,7 @@ Both current and past students will be able to access the most recent materials 
 | 2   | 4    | 20  | Bayes for Days                      |[Repo](https://github.com/learn-co-students/bayes-london-ds)|DONE		|
 | 2   | 5    | 21  | Linear Regression                   |[Repo](https://github.com/learn-co-students/linear-regression-london-ds )|DONE		|
 | 2   | 5    | 22  | Multiple Regression                 |[Repo](https://github.com/learn-co-students/multiple-linear-regression-london-ds)|DONE |
+| 2   | 5    | 27  | Reg Coefs, EDA, and TTS 2	         |[Repo](https://github.com/learn-co-students/linear-regression-coef-lab-london-ds) |
 | 2   | 5    | 23  | Feature Engineering                 |[Repo]( )|MT	|
 | 2   | 5    | 24  | Validation + Mod 2 Code Challenge   |[Repo]( )|MT	|
 | 2   | 5    | 25  | Bias-Variance Tradeoff              |[Repo]( )|MT	|
