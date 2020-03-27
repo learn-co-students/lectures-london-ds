@@ -25,7 +25,7 @@ Both current and past students will be able to access the most recent materials 
 | 2   | 4    | 20  | Bayes for Days                      |[Repo](https://github.com/learn-co-students/bayes-london-ds)|DONE		|
 | 2   | 5    | 21  | Linear Regression                   |[Repo](https://github.com/learn-co-students/linear-regression-london-ds )|DONE		|
 | 2   | 5    | 22  | Multiple Regression                 |[Repo](https://github.com/learn-co-students/multiple-linear-regression-london-ds)|DONE |
-| 2   | 5    | 27  | Reg Coefs, EDA, and TTS 2	         |[Repo](https://github.com/learn-co-students/linear-regression-coef-lab-london-ds) |
+| 2   | 5    | 27  | Reg Coefs, EDA, and TTS 2	         |[Repo](https://github.com/learn-co-students/linear-regression-coef-lab-london-ds) |done|
 | 2   | 5    | 23  | Feature Engineering                 |[Repo]( )|MT	|
 | 2   | 5    | 24  | Validation + Mod 2 Code Challenge   |[Repo]( )|MT	|
 | 2   | 5    | 25  | Bias-Variance Tradeoff              |[Repo]( )|MT	|
@@ -47,6 +47,7 @@ Both current and past students will be able to access the most recent materials 
 | 4   | 10   | 49  | Big Data 			         |[Repo](https://github.com/learn-co-students/big-data-london-ds)|DONE	|
 | 4   | 10   | 50  | Time Series Trends                  |[Repo]( )|MT	|
 | 4   | 11   | 51  | NLP                                 |[Repo](https://github.com/learn-co-students/intro-to-nlp-london-ds)|DONE	|
+| 4   | 11   | 51? | Extra -- Deep NLP 			 |[Repo](https://github.com/learn-co-students/deep-nlp-london-ds) | Done |
 | 4   | 11   | 52  | Neural Networks                     |[Repo]( )|MT	|
 | 4   | 11   | 53  | Multi-Layer Perceptrons             |[Repo]( )|MT	|
 | 4   | 11   | 54  | Tuning Neural Networks              |[Repo]( )|MT	|
